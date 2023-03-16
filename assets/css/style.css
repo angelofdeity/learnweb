@@ -2165,7 +2165,7 @@ body.active {
   border-radius: 50px;
   background-color: rgba(255, 255, 255, 0.8);
   grid-area: centerdiv;
-  width: 1000px;
+  width: 500px;
   box-shadow: 20px 20px 40px #0c0d10, -20px -20px 40px #323342;
 }
 .floatdivleft {
