@@ -2171,8 +2171,11 @@ body.active {
 @media only screen and (max-width: 1024px) {
   .divgrid {
       display: grid;
+      text-align: center;
       justify-content: center;
       gap: 50px 0px;
+      grid-template-rows: max-content;
+      grid-template-columns: max-content;
       grid-template-areas:
         "centerdiv"
         "leftdiv"
